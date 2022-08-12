@@ -15,7 +15,7 @@ client = commands.Bot(command_prefix="#", intents = discord.Intents.all())
 
 
 
-token = "MTAwNzY4MjAzODA4MzYxNjk1MQ.Gq_jut.6JKd3NsaroAdH4zpn3noQ62MZ1jOZsfF8_ovfg"
+token = ""
 
 
 CHANNEL_NAMES = ['HACKEROP']
